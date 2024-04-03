@@ -28,3 +28,9 @@ img{
     width: 150px;
     height: 150px;
 }
+div#login_form{
+    text-align: center;
+}
+div#login_form inpit{
+    display: inline-block;
+}
