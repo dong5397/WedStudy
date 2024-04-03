@@ -31,6 +31,7 @@ img{
 div#login_form{
     text-align: center;
 }
-div#login_form inpit{
+div#login_form input{
     display: inline-block;
+    margin: 10px;
 }
