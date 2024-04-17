@@ -13,9 +13,13 @@ div{
 }
 div.contents{
     background-color: gold;
+    width: 500px;
+    height: 300px;
 }
 div#ootd{
     background-color: cyan;
+    width: 500px;
+    height: 300px;
 }
 dt#ootddt{
     color: red;
